@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znp5ClrmHGyIH6wTyIooFTYzZydHn/d6QQofCJw0XJKmgbTwKSKeyt/ee7gOEgK4SqvDhFYdGaVkwbnQ89hvrQ==",
+  "dgSpecHash": "VE1d/cFM/o4V7/v5OwEqfbqk+AQiQgHqAjIe/2qspCl/SHk2dEvwr86XImlR48ELWmkphm09Zl0pPnPYfNh/kw==",
   "success": true,
-  "projectFilePath": "/home/alex/Desktop/repos/CSharpClasses/LearningCSharp/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/home/alex/repos/CSharpClasses/LearningCSharp/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

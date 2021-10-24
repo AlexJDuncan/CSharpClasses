@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alex/repos/CSharpClasses/LearningCSharp/HelloWorld/HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "/home/alex/repos/CSharpClasses/LearningCSharp/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/variableAndDataTypes.csproj",
+      "projectName": "variableAndDataTypes",
+      "projectPath": "/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/variableAndDataTypes.csproj",
       "packagesPath": "/home/alex/.nuget/packages/",
-      "outputPath": "/home/alex/repos/CSharpClasses/LearningCSharp/HelloWorld/obj/",
+      "outputPath": "/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alex/.nuget/NuGet/NuGet.Config"

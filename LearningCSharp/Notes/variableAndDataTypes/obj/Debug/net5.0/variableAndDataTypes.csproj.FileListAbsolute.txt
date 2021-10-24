@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes.deps.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/ref/variableAndDataTypes.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/bin/Debug/net5.0/variableAndDataTypes.pdb
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/ref/variableAndDataTypes.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.pdb
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/variableAndDataTypes/obj/Debug/net5.0/variableAndDataTypes.genruntimeconfig.cache
