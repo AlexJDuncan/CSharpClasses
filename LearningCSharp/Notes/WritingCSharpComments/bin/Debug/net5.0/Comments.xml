@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WritingCSharpComments</name>
+    </assembly>
+    <members>
+        <member name="M:WritingCSharpComments.Program.Main(System.String[])">
+            XML Comments are used to help provide documentation
+            They start with tripple-slashes and have a special syntax
+            <summary>
+            this is the main sample application function
+            </summary>
+            <param name='args'>An Array of string arguments from the command line</param>
+            <returns>
+            No return value
+            </returns>
+            more tags and info at https://docs.microsoft.com/dotnet/csharp/codedoc
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,17 @@
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments.deps.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/ref/WritingCSharpComments.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/WritingCSharpComments.pdb
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/bin/Debug/net5.0/Comments.xml
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/ref/WritingCSharpComments.dll
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.pdb
+/home/alex/repos/CSharpClasses/LearningCSharp/Notes/WritingCSharpComments/obj/Debug/net5.0/WritingCSharpComments.genruntimeconfig.cache
