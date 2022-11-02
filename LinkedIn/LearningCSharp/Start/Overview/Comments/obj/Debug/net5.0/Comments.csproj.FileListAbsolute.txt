@@ -1,0 +1,17 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/ref/Comments.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/bin/Debug/net5.0/Comments.xml
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/ref/Comments.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Overview/Comments/obj/Debug/net5.0/Comments.genruntimeconfig.cache
