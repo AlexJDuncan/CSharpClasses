@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/ref/Conditionals.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/ref/Conditionals.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.genruntimeconfig.cache
