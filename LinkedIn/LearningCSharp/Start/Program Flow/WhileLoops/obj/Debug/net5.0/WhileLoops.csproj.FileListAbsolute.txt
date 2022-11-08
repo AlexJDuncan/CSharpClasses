@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/ref/WhileLoops.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache
