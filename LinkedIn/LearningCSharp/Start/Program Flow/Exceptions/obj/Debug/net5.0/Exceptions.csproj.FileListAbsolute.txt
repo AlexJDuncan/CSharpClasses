@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/ref/Exceptions.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/bin/Debug/net5.0/Exceptions.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/ref/Exceptions.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Program Flow/Exceptions/obj/Debug/net5.0/Exceptions.genruntimeconfig.cache
