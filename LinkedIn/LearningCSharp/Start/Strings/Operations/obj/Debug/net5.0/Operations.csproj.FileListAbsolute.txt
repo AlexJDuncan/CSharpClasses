@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/ref/Operations.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/bin/Debug/net5.0/Operations.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/ref/Operations.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Operations/obj/Debug/net5.0/Operations.genruntimeconfig.cache
