@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/ref/Basics.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/bin/Debug/net5.0/Basics.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/ref/Basics.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache
