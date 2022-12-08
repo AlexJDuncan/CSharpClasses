@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ref/ProgChallengeStart.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/bin/Debug/net5.0/ProgChallengeStart.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ref/ProgChallengeStart.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/ProgChallengeStart/obj/Debug/net5.0/ProgChallengeStart.genruntimeconfig.cache
