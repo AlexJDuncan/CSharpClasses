@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/ref/Parsing.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/ref/Parsing.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.genruntimeconfig.cache
