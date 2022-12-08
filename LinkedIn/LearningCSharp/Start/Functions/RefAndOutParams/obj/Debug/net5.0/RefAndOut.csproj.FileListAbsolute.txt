@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/ref/RefAndOut.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache
