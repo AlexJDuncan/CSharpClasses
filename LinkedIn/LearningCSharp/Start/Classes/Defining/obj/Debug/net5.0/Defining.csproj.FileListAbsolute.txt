@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/ref/Defining.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/bin/Debug/net5.0/Defining.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/ref/Defining.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Defining/obj/Debug/net5.0/Defining.genruntimeconfig.cache
