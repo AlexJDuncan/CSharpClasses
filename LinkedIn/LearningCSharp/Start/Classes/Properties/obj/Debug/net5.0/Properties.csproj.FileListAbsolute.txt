@@ -1,0 +1,16 @@
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.AssemblyReference.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties.deps.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/ref/Properties.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/bin/Debug/net5.0/Properties.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/ref/Properties.dll
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.pdb
+/home/alex/repos/CSharpClasses/LinkedIn/LearningCSharp/Start/Classes/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
